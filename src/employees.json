@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "ID": 1,
+      "Name": "John Smith",
+      "Address": "Ben Yehuda 4, Jerusalem",
+      "Email": "john@gmail.com",
+      "Phone": "00000004",
+      "Gender": "male",
+      "MaritalStatus": "married",
+      "Salary": 7000
+    },
+    {
+      "ID": 2,
+      "Name": "Shira Ran",
+      "Address": "Tel Aviv",
+      "Email": "shira@gmail.com",
+      "Phone": "00000004",
+      "Gender": "female",
+      "MaritalStatus": "married",
+      "Salary": 6000
+    },
+    {
+      "ID": 3,
+      "Name": "Sarit Avraham",
+      "Adrress": "Haim 8",
+      "Email": "sarit@gmail.com",
+      "Phone": "00000009",
+      "Gender": "female",
+      "MaritalStatus": "married",
+      "Salary": 8500
+    },
+    {
+      "ID": 4,
+      "Name": "Efi Danker",
+      "Adrress": "Revava 8",
+      "Email": "efi@gmail.com",
+      "Phone": "00000004",
+      "Gender": "male",
+      "MaritalStatus": "single",
+      "Salary": 10000
+    }
+  ]
+}

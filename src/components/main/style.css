@@ -1,0 +1,123 @@
+.content {
+    height: 189px;
+    width: 446px;
+    left: 797px;
+    top: 339px;
+    border-radius: nullpx;
+    position: absolute;
+    left: 55.36%;
+    right: 13.65%;
+    top: 41.85%;
+    bottom: 34.81%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 63px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.rectangle {
+    position: absolute;
+    left: 9.74%;
+    right: 57.29%;
+    top: 18.61%;
+    bottom: 8.7%;
+
+    background: #FFFFFF;
+    box-shadow: inset -2px 2px 7px rgba(0, 0, 0, 0.28);
+}
+
+.scroll {
+    position: absolute;
+    left: 9.74%;
+    right: 49.48%;
+    top: 18.8%;
+    bottom: 79.17%;
+    background: #F1F1F1;
+    transform: rotate(90deg);
+}
+
+.leftDiv {
+    height: 267px;
+    width: 225px;
+    left: 708px;
+    top: 312px;
+    border-radius: 0px;
+    position: absolute;
+    background: #2F80ED;
+    box-shadow: inset -1.5px 1.5px 6.75px rgba(0, 0, 0, 0.09);
+}
+
+.rightDiv {
+
+    position: absolute;
+    width: 225px;
+    height: 247px;
+    left: 1107px;
+    top: 332px;
+
+    background: #F2994A;
+    box-shadow: inset -1.5px 1.5px 6.75px rgba(0, 0, 0, 0.09);
+}
+
+.leftSalary {
+    position: absolute;
+    left: 48.88%;
+    right: 28.18%;
+    top: 91.19%;
+    bottom: 12.22%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.rightSalary {
+    position: absolute;
+    left: 48.88%;
+    right: -32.18%;
+    top: 91.19%;
+    bottom: 12.22%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.whoEarns {
+    position: absolute;
+    left: 37.26%;
+    right: 1.54%;
+    top: 10.28%;
+    bottom: 48.17%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 63px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    height: 126px;
+    width: 593px;
+    left: 723px;
+    top: 164px;
+    border-radius: nullpx;
+
+    color: #000000;
+}
+

@@ -1,0 +1,10 @@
+.form {
+    font-size: 18px;
+    height: 100px;
+    width: 300px;
+    left: 100px;
+    top: 198px;
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+}

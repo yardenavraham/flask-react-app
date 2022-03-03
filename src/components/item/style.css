@@ -1,0 +1,21 @@
+.item {
+    position: relative;
+    left: 12.69%;
+    right: 42.9%;
+    top: 3.23%;
+    bottom: 6.45%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: flex-end;
+    color: #000000;
+    margin-top: 18.75px;
+}
+
+.btn{
+    margin-left: 8px;
+
+}
